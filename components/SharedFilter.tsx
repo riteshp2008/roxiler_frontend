@@ -21,7 +21,6 @@ interface FilterState {
 }
 
 const months = [
-  { value: "all", label: "All Months" },
   { value: "01", label: "January" },
   { value: "02", label: "February" },
   { value: "03", label: "March" },
